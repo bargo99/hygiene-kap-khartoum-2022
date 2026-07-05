@@ -1,6 +1,6 @@
 # Hygiene Practices During Clinical Training: KAP Study Analysis Code
 
-[![DOI](https://zenodo.org/badge/DOI/PLACEHOLDER.svg)](https://doi.org/PLACEHOLDER)
+[![DOI](https://zenodo.org/badge/1289849545.svg)](https://doi.org/10.5281/zenodo.21204061)
 <!-- Replace the badge above with the real one Zenodo gives you after your
      first GitHub release — see "Archiving on Zenodo" section below. -->
 
