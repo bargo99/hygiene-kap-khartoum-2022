@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Hygiene Practices During Clinical Training: KAP Study Analysis Code"
+type: software
+authors:
+  - family-names: "Ismail Bargo Abdulrhman"
+    given-names: "Abdulla"
+    affiliation: "Faculty of Medicine, University of Science and technology"
+    # orcid: "https://orcid.org/0009-0001-7690-145X" 
+repository-code: "https://github.com/bargo99/hygiene-kap-khartoum-2022"
+license: MIT
+version: 1.0.0
+date-released: "2026-07-05"  
+keywords:
+  - hand hygiene
+  - KAP study
+  - medical education
+  - infection prevention
+  - cross-sectional study
+  - R
+abstract: >
+  R analysis pipeline for a cross-sectional Knowledge, Attitude, and
+  Practice (KAP) study on hand, attire, and equipment hygiene among
+  medical students undergoing clinical training at the University of
+  Khartoum Faculty of Medicine. Includes data cleaning, KAP scoring and
+  grading, descriptive statistics, bivariate comparisons by gender and
+  training year, and multivariable regression of practice scores.
+preferred-citation:
+  type: article
+  title: "Hygiene practices during clinical training: knowledge, attitudes and practice among a cohort of Sudanese medical students at Khartoum University"
+  
+  year: 2026
+  # doi: "10.xxxx/xxxxx"   # add once assigned
