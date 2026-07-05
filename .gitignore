@@ -1,0 +1,8 @@
+cleaned_data/
+public_data/
+figures/
+tables/
+*.xlsx
+.Rhistory
+.RData
+.Rproj.user/
